@@ -1,4 +1,10 @@
-Hi, I am Enoch 👋 - 🎓 Electrical & Electronics Engineering Graduate - 🔬 Transitioning to Biomedical Engineering - Medical Devices & Biosignals - 🐍 Tech: Python, Numpy, Scipy, Matplotlib - 🎯 MSc in Biomedical Engineering
+Hi, I am Enoch 👋
+
+
+🎓 Electrical & Electronics Engineering Graduate 
+🔬 Transitioning to Biomedical Engineering - Medical Devices & Biosignals 
+🐍 Tech: Python, Numpy, Scipy, Matplotlib 
+🎯 MSc aspirant in Biomedical Engineering
 
 <!--
 **Enoch-Olatunde/Enoch-Olatunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.

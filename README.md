@@ -6,6 +6,8 @@ Hi, I am Enoch 👋
 🐍 Tech: Python, Numpy, Scipy, Matplotlib 
 🎯 MSc aspirant in Biomedical Engineering
 
+I am passionate about applying my electronics background to healthcare technology. Currently building Python project for biomedical signal processing
+
 <!--
 **Enoch-Olatunde/Enoch-Olatunde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
